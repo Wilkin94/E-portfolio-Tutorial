@@ -89,7 +89,8 @@ li {
    display: flex;
    flex-direction: column;
    align-items: center;
-   max-width: 500px;
+   max-width: 600px;
+   margin: 0 auto;
    text-align: center;
  }
 
@@ -105,7 +106,7 @@ li {
  .about-me__pictuer {
    width: 100%;
 
-   /* IMPROVING MY OWN PICTURE */
+ /* IMPROVING MY OWN PICTURE */
    transform: scale(1.5);
    padding-top: 8px;
  }
@@ -119,3 +120,19 @@ li {
    margin-bottom: 28px;
  }
 
+.about-me__links {
+   font-size: 24px;
+   color: #242424;
+   text-decoration: none;
+   padding: 0 16px;
+}
+
+.about-me__img--container {
+   flex: 1;
+   display: flex;
+   align-items: center;
+}
+
+.about-me__img {
+   width: 100%;
+}
