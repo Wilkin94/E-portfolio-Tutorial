@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../HTML Crash Course"
+		},
+		{
+			"path": "../CSS Crash Course"
+		},
+		{
+			"path": "../Flex"
+		},
+		{
+			"path": "../Setup Tutorial"
+		},
+		{
+			"path": "../HMTL Tutorial"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../assests/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tutorial Eportfolio"
+	}
+}
