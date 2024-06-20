@@ -298,8 +298,12 @@ section:nth-child(even) {
    background-color: #242424;
 }
 
+.footer__background {
+   background-color: black;
+}
+
 .footer__logo {
-   margin-bottom: 20px;
+   margin-bottom: 20px;;
 }
 
 .footer__social--list {
@@ -319,11 +323,13 @@ section:nth-child(even) {
 }
 
 .footer__logo--img {
-   width: 70px;
-   height: 70px;
+   width: 100px;
+   height: 100px;
+   background-color: #242424;
 }
 
 .footer__social--link,
 .footer__copyright {
-   color: black
+   color: white;
 }
+
